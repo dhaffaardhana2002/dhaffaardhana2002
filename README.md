@@ -7,5 +7,7 @@ These are Programming Languages I have learn:
 - Javascript
 - PHP
 
-And these are my projects:
+And these are my project(s):
 - [To-Do List || dhaffaardhana2002/todo-list](https://github.com/dhaffaardhana2002/todo-list)
+
+Sorry if anything's wrong, I'm not really good in English
